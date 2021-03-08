@@ -1,2 +1,3 @@
 console.log('Привет');
 alert('Пока');
+let arr = [1, 2, 3, 4, 5]
